@@ -1,0 +1,4 @@
+# Project specific ignores
+/node_modules
+/platforms
+/plugins
